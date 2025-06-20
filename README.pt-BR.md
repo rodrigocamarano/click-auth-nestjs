@@ -196,5 +196,5 @@ cp .env.example .env
 yarn start:dev
 
 # Acesse a documentação Swagger
-http://localhost:3000/api/docs
+http://localhost:8080/api/docs
 ```

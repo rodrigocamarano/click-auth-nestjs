@@ -111,7 +111,7 @@ src/
 * Full use of `@ApiTags`, `@ApiBody`, `@ApiResponse`, etc.
 * Always updated as routes evolve
 * JSON examples for front-end integration
-* Access: `http://localhost:3000/api/docs`
+* Access: `http://localhost:8080/api/docs`
 
 ---
 
@@ -190,7 +190,7 @@ cp .env.example .env
 # Run app in dev mode
 yarn start:dev
 
-# Swagger UI: http://localhost:3000/api/docs
+# Swagger UI: http://localhost:8080/api/docs
 ```
 
 ---
